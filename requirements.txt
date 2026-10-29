@@ -1,0 +1,9 @@
+google-adk>=1.6.0
+litellm>=1.74.0
+mcp>=1.0.0
+chromadb>=0.6.0
+sentence-transformers>=3.3.0
+pandas>=2.2.0
+pypdf>=5.0.0
+requests>=2.32.0
+pytest>=8.0.0

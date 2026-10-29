@@ -1,0 +1,281 @@
+--- Page 1 ---
+Indian Institute of Technology Jodhpur
+IITJ/OA/C/2020-21/14/.2.36&
+Dated: 13 May 2021
+CIRCULAR
+Subject: Evaluation of M.Sc./M. Tech. and M.Sc.-M. Tech. Projects for Trimester III AY 2020-21
+The following circular have been issued after getting the approval from the competent
+authority in connection to the project evaluation for M.Sc./M.Sc.-M. Tech./M. Tech.):
+SN
+Circular No.
+Subject
+IITJ/OA/C/2020-21/8/1576
+Rule and regulations for conduct and evaluation
+dated 27 October 2020
+(Trimester I and II)
+IITJ/OA/C/2020-21/10/1898
+Rule and regulations for conduct and evaluation
+dated 12 January 2021
+IITJ/OA/C/2020-21/11/1914
+Format and guideline for submission of project
+dated 14 January 2021
+report
+IITJ/OA/C/2020-21/13/2358
+Timeline for evaluation for Trimester-III
+dated 3 May 2021
+2.
+In continuation to the earlier approval (S.N. 3) regarding guidelines and format for project
+report submission have been generalized with minor modification (Binding format for the
+hard copy of the project reports included). The revised guideline is placed at Annexure-I.
+3. Project Evaluation Report Form No A-23 has been revised. The revised format is placed at
+Annexure-II. It is mandatory for the M.Sc./M.Sc.-M.Tech./M.Tech. students to provide the
+hard copies (at any earliest possible date before the award of degrees) of the final project report
+to the Department Office;
+a. Copy of the Project report for Supervisor(s)
+b. Copy of the Project report for Department record
+c. Copy of the Project report for Library Records (to be submitted to office of academics
+through department office only)
+4. The final project report is to be submitted through online mode (Aryabhatta Portal New). The
+detailed Standard Operational Procedure (SOP) is attached as Annexure III.
+This issue with the approval of the competent authority.
+(Shakti Ranjan Patra)
+Assistant Registrar (Academics)
+Copy to:
+1. All Heads
+2.
+Associate Dean (Academics-PG)
+3.
+Faculty in Charge (G&R)
+4.
+All Faculty
+5.
+All Department Offices
+6.
+Webmaster for updation in repository
+7.
+All M.Sc./M.Tech./M.Sc.-M.Tech students
+ofi(e + Acaden'c) (Pu)
+
+--- Page 2 ---
+Annexure I
+Guidelines and Format for submission of Project Report
+(M.Sc./M.Sc.-M.Tech./M.Tech.)
+1.
+Length: Number of pages are not fixed A4 size paper
+2.
+Page layout / Margins(Top/Bottom/Left/Right): 1-in/1-in/0.75-in/0.75-in
+3.
+Text format: Single column/ 1.5 line spacing/ Full-justify
+4.
+Font: 12 pt. Times New Roman
+5.
+Binding format for the hard copy of the project reports
+a. Number of Hard copies -3
+b. Paper Size -A4
+c. Color of the binding - Blue
+6.
+Organization of the report:
+(a) Cover page
+(b) Declaration by the Student
+(c) Certificate by respective Supervisor
+(d) Abstract - 1 paragraph (max. 150 words only)
+(e) Table of contents
+(f) Main text divided into sections/sub-sections (starting with Introduction and
+ending with Conclusions
+(g) References
+(h) Appendix (if any)
+Page numbering: All pages before the main text are to be numbered using lower case
+Roman numbers; all pages starting from the main text are to be numbered using Arabic
+numbers. Page numbers to be placed at the center of the bottom margin; cover pages
+should not be numbered but counted.
+8.
+Section headings: Section/sub-sections to be numbered consecutively using Arabic
+numbers; section headings should be in bold with all capital letters and sub-sections
+headings in italics, e.g. 1. INTRODUCTION for sections, 4.2 Experimental validations
+for sub-sections. Font size for section headings should be14 pt.
+9.
+Equations: Equations are to be centered and numbered consecutively with equation
+number in parentheses flushed with the right margin; equation number should be section
+specific, e.g. (1.2), (1.3), (2.3), etc.; equations should be referenced in the text as eqn.
+(1.2), eqn. (2.3) and so on.
+10.
+Figures: Figures are to be centered and numbered consecutively; figure numbers should
+be section specific; figures should be referenced in the text as Figure 2.3 and so on. All
+figures must have a caption; figure number and caption to be placed center-flushed below
+the figure, e.g. Figure 2.2: Circuit diagram of the...
+11.
+Tables: Tables are to be centered and numbered consecutively; table numbers should be
+section specific; table should be referenced in the text as Table 1.2, Table 2.3 and so on.
+All the tables must have a caption; table number and caption to be placed center-flushed
+above the table, e.g. Table 4. I: Experimental Results ....
+12.
+References: Arrange references in order of their citation in the text; to be numbered
+consecutively in square brackets following standard IEEE format.
+13.
+Turn-it-in/plagiarism Report: Turn-it-in/plagiarism report duly signed by Supervisor must
+be submitted along with the submission (in 1 report original and in the other a copy may
+be enclosed).
+14.
+Any other: The format of any other item(s) not mentioned in the above list may be assumed
+in consultation with Supervisor.
+
+--- Page 3 ---
+Format For Cover page
+Title of the Project Report
+A Project Report submitted by
+Name of the Student
+in partial fulfillment of the requirements for the award of the degree of
+M.Sc./M.Sc.-M.Tech./M.Tech.
+Indian Institute of Technology Jodhpur
+Name of the Department
+January 2021
+
+--- Page 4 ---
+Declaration
+I hereby declare that the work presented in this Project Report titled Title of the Project Report --
+M.Sc./M.Sc.-M.Tech./M.Tech. submitted to the Indian Institute of Technology Jodhpur in partial fulfilment
+of the requirements for the award of the degree of M.Sc./M.Sc.-M.Tech./M.Tech., is a bonafide record of
+the research work carried out under the supervision of Professor Name of the respective Supervisor. The
+contents of this Project Report in full or in parts, have not been submitted to, and will not be submitted by
+me to, any other Institute or University in India or abroad for the award of any degree or diploma.
+Signature
+Name of the Student
+Roll Number
+
+--- Page 5 ---
+Certificate
+This is to certify that the Project Report titled Title of the Project Report, submitted by Name of the Student (Roll
+Number of the student) to the Indian Institute of Technology Jodhpur for the award of the degree of M.Sc./M.Sc.-
+M.Tech./M.Tech., is a bonafide record of the research work done by him under my supervision. To the best of my
+knowledge, the contents of this report, in full or in parts, have not been submitted to any other Institute or
+University for the award of any degree or diploma.
+Signature
+Name ofthe respective supervisor
+
+--- Page 6 ---
+Abstract
+The M.Sc./M.Sc.-M.Tech./M.Tech. Program of study requires each student to undertake research in
+the chosen area of study and to submit a thesis on it in consultation with the faculty member(s) supervising
+the same. The M.Sc./M.Sc.-M.Tech./M.Tech. Project is included in the curriculum with a view to synthesize
+the various components of the research work undertaken during the of the M.Sc./M.Sc.-M.Tech./M.Tech.
+Program at IIT Jodhpur. Creating a Project Report document of the research undertaken is part of the skill
+building training of the student in technical communications. Here, the emphasis is on presenting a technical
+matter in an objective written form.
+This document is a record of the mandatory guidelines to be followed while preparing the of the
+Project Report document to be submitted at the end of the M.Sc./M.Sc.-M.Tech./M.Tech. Program. It
+prescribes typical contents that an M.Sc./M.Sc.-M.Tech./M.Tech. Project Report document usually should
+contain, and provides the format of its presentation. While most of these guidelines are prescriptive, some
+are subjective; but towards ensuring a relatively uniform style of presentation of all M.Sc./M.Sc.-
+M.Tech./M.Tech. Project Report being submitted at the Institute, these subjective guidelines are expected
+to help in setting at least a reasonable minimum expectation of the presentation level of the work
+accomplished in the research program.
+All students pursuing M.Sc./M.Sc.-M.Tech./M.Tech. Program are urged to read the contents and
+form of this document carefully, and prepare their Project Report document as prescribed. It is hoped that
+this document will lead to a modest beginning at the Institute towards imparting education in professional
+written presentations.
+
+--- Page 7 ---
+Contents
+page
+Abstract
+(report may or may not be divided into chapters)
+Introduction and background
+Literature survey
+Problem definition and Objective
+Methodology
+Theoretical/Numerical/Experimental findings
+Summary and Future plan of work
+Publications if any
+References
+
+--- Page 8 ---
+References
+Appendix (if any)
+
+--- Page 9 ---
+hjhl le
+Indian Institute of Technology Jodhpur
+Office of Academics
+A-23
+Annexure II
+Report of M.Sc./M.Tech./M.Sc.-M.Tech. Project Evaluation
+1. Name of the Student:
+Roll No.
+2. Email ID:
+Contact No.
+3. Date of Registration:
+Department/IDRP
+4. Title of Project:
+5. Date of evaluation of TI/TII/TIII/Sem I/Sem II (mark any one)
+6. Project Credit Registered in TI/TII/TIII/Sem I/Sem I (mark any one)
+Grade Awarded T-/T-II/T-III/SemI/Sem II: A* A A- B B- C C- D E F I S X U W
+(please circle clearly the grade awarded AND strike out the others)
+7. Report approved by the committee Attached
+NAMES ANDSIGNATURESOFPANELMEMBERS:
+PANEL MEMBER
+NAME,DEPARTMENT/
+SIGNATUREWITHDATE
+ORGANIZATION
+Supervisor
+Supervisor if any
+Examiner I
+(external to department
+or outside the India)
+Examiner II
+DRC (Program
+Coordinator) / IDRP
+Program Coordinator
+DRC Chairperson
+Head of Department /
+Coordinator IDRP
+Note: If the student is not awarded one of these grade, then the student is deemed to have failed in this
+examination and is given an F. Should the student fail, re-registration for this Stage is required. The above report,
+in ORIGINAL, must be forwarded to the Office of Academics. It is recommended that the supervisor(s) retain a
+copy until the student graduate
+
+--- Page 10 ---
+Annexure III
+SOP for Online Submission of Final Project Report After Evaluation
+For M.Sc./M.Tech./M.Sc.-M.Tech.
+I. Online Submission of Final Proiect Report
+Office of Academics with the help of Office of Automation has created a mechanism for Online Submission of Final Project
+including Declaration signed by student and Supervisor's Certificate duly signed by the Supervisor to be uploaded in one single
+PDF file and Report of M.Sc./M.Tech./M.Sc.-M.Tech. Project Evaluation A-23.
+The following is the SOP for uploading the Final Project Report of M.Sc./M.Tech./M.Sc.-M.Tech. Students.
+Step 1. Respective Department Office will see the following tab in their Aryabhata_ New portal.
+a)M.Sc. / M.Tech. /M.Sc.-M.Tech. project report
+Step 2. After clicking on the above tab then following menu will be open to enter the following details:
+Name of the Student
+Roll no.
+Date of Project Evaluation:
+Department
+Project Title
+Examiner I
+(external to department or outside the India)
+Examiner II
+Upload M.Sc./M. Tech./M.Sc.-M. Tech.
+Project Evaluation A-23 Form (signed by all the stakeholders)
+Only PDF format
+Upload M.Sc./M. Tech./M.Sc.-M. Tech Final Project Report
+With signed certificate and undertaking by the supervisor and student respectively)
+Hard copy of the Project Report for Supervisor Received Yes/No
+Hard copy of the Project Report for Department Received Yes/No
+SUBMIT
+Step 3: Submit Button for submission of the final report.
+Further, following documents to be uploaded by the respective Department Office;
+1.Report of M.Sc./M.Tech./M.Sc.-M.Tech Project Evaluation A-23
+2.  Final Project Report (with signed certificate and undertaking by the supervisor and student respectively)
+
+--- Page 11 ---
+3.It is mandatory for the Department Office to send the Original Signed Binding Hard copy of the Project Report at the
+Officeof Academics.
+Further, once the project report is submitted an acknowledgment email will be sent to the respective supervisor, Head of the
+Department, Department Office and Office of Academics (PG-Programs).
+Important Note: Supervisor will provide the final report in a single pdf (including Declaration signed by student and
+Supervisor's Certificate duly signed by the Supervisor) to the respective department office to upload the thesis on the portal.
+It is mandatory for the M.Sc./M.Tech./M.Sc-M.Tech. students to provide the hard copies (at any earliest possible date before
+the award of degrees) of the final report to the Department Office;
+1. Copy of the Project report for Supervisor(s)
+2. Copy of the Project report for Department record
+3. Copy of the Project report for Library Records (TO BE SUBMITTED TO OFFICE OF ACADEMICS THROUGH
+DEPARTMENTOFFICEONLY)

@@ -1,0 +1,267 @@
+Semester,Group_Section,Day,Time_Slot,Course_Code,Course_Name,Credits,LTP,Instructor,Instructor_Email,Slot_Type
+AY 2023-24 Semester-I,Group A1,Monday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A1,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A1,Wednesday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A1,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A1,Friday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A1,Monday, - 9 -  -  - 1 - 0 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group A1,Thursday, - 9 -  -  - 1 - 0 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A1,Tuesday, - 1 - 1 -  -  - 1 - 2 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group A1,Wednesday, - 1 - 1 -  -  - 1 - 2 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group A1,Friday, - 1 - 1 -  -  - 1 - 2 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A1,Monday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A1,Tuesday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A1,Wednesday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A1,Thursday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A1,Friday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A1,Monday, - 2 -  -  - 3 - ,BBP1010,Introduction to Bioengineering Lab [BBP1010],1.0,0-0-2,Dinesh Ahirwar,dineshahirwar@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group A1,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A1,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A1,Tuesday, - 5 -  -  - 6 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A1,Wednesday, - 5 -  -  - 6 - ,OSN1020/30,Performing Arts I [OSN1020] / Sport I [OSN1030],0.5,0-0-1,Ankita Sharma,ankitasharma@iitj.ac.in,NG-2
+AY 2023-24 Semester-I,Group A1,Friday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group A2,Monday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A2,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A2,Wednesday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A2,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A2,Friday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A2,Tuesday, - 9 -  -  - 1 - 0 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group A2,Friday, - 9 -  -  - 1 - 0 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A2,Monday, - 1 - 1 -  -  - 1 - 2 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A2,Wednesday, - 1 - 1 -  -  - 1 - 2 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group A2,Thursday, - 1 - 1 -  -  - 1 - 2 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group A2,Monday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A2,Tuesday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A2,Wednesday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A2,Thursday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A2,Friday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A2,Tuesday, - 2 -  -  - 3 - ,BBP1010,Introduction to Bioengineering Lab [BBP1010],1.0,0-0-2,Dinesh Ahirwar,dineshahirwar@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group A2,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A2,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A2,Tuesday, - 5 -  -  - 6 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A2,Wednesday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group A2,Friday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group A3 /td>,Monday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A3 /td>,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A3 /td>,Wednesday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A3 /td>,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A3 /td>,Friday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A3 /td>,Wednesday, - 9 -  -  - 1 - 0 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group A3 /td>,Monday, - 1 - 1 -  -  - 1 - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A3 /td>,Tuesday, - 1 - 1 -  -  - 1 - 2 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A3 /td>,Wednesday, - 1 - 1 -  -  - 1 - 2 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group A3 /td>,Friday, - 1 - 1 -  -  - 1 - 2 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group A3 /td>,Monday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A3 /td>,Tuesday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A3 /td>,Wednesday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A3 /td>,Thursday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A3 /td>,Friday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A3 /td>,Tuesday, - 2 -  -  - 3 - ,BBP1010,Introduction to Bioengineering Lab [BBP1010],1.0,0-0-2,Dinesh Ahirwar,dineshahirwar@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group A3 /td>,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A3 /td>,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A3 /td>,Tuesday, - 5 -  -  - 6 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A3 /td>,Wednesday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group A3 /td>,Friday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Monday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Wednesday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Friday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Thursday, - 9 -  -  - 1 - 0 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Friday, - 9 -  -  - 1 - 0 - ,BBP1010,Introduction to Bioengineering Lab [BBP1010],1.0,0-0-2,Dinesh Ahirwar,dineshahirwar@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Monday, - 1 - 1 -  -  - 1 - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Tuesday, - 1 - 1 -  -  - 1 - 2 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Wednesday, - 1 - 1 -  -  - 1 - 2 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Monday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Tuesday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Wednesday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Thursday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Friday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Monday, - 2 -  -  - 3 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Tuesday, - 5 -  -  - 6 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Wednesday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group A4 (Sr. 121 to 160),Friday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Monday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Wednesday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Friday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Monday, - 9 -  -  - 1 - 0 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Wednesday, - 9 -  -  - 1 - 0 - ,BBP1010,Introduction to Bioengineering Lab [BBP1010],1.0,0-0-2,Dinesh Ahirwar,dineshahirwar@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Friday, - 9 -  -  - 1 - 0 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Wednesday, - 1 - 1 -  -  - 1 - 2 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Thursday, - 1 - 1 -  -  - 1 - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Monday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Tuesday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Wednesday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Thursday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Friday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Tuesday, - 2 -  -  - 3 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Tuesday, - 5 -  -  - 6 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Wednesday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group A5 (Sr. 161 to 200),Friday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Monday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Wednesday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Friday, - 8 -  -  - 9 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Tuesday, - 9 -  -  - 1 - 0 - ,EEL1010,Introduction to Electrical Engineering [EEL1010],4.0,3-0-2,"Rajlaxmi Chouhan, Soumava Mukherjee","rajlaxmichouhan@iitj.ac.in, soumava@iitj.ac.in",K
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Thursday, - 9 -  -  - 1 - 0 - ,BBP1010,Introduction to Bioengineering Lab [BBP1010],1.0,0-0-2,Dinesh Ahirwar,dineshahirwar@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Monday, - 1 - 1 -  -  - 1 - 2 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Wednesday, - 1 - 1 -  -  - 1 - 2 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Friday, - 1 - 1 -  -  - 1 - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Monday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Tuesday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Wednesday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Thursday, - 1 -  -  - 2 - ,BBL1020,Introduction to Bioengineering Theory [BBL1020],3.0,3-0-0,Raviraj Vankayala,rvankayala@iitj.ac.in,F
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Friday, - 1 -  -  - 2 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Tuesday, - 2 -  -  - 3 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Tuesday, - 5 -  -  - 6 - ,CSL1010,Introduction to Computer Science [CSL1010],4.0,3-0-2,Richa Singh,richa@iitj.ac.in,G
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Wednesday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group A6 (Sr. 201 to 240),Friday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B1,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B1,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B1,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B1,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B1,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B1,Tuesday, - 9 -  -  - 1 - 0 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B1,Monday, - 1 - 1 -  -  - 1 - 2 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B1,Tuesday, - 1 - 1 -  -  - 1 - 2 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B1,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B1,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B1,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B1,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B1,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B1,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B1,Friday, - 2 -  -  - 3 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B1,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B1,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B1,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B1,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B1,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B2,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B2,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B2,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B2,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B2,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B2,Monday, - 9 -  -  - 1 - 0 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B2,Wednesday, - 9 -  -  - 1 - 0 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B2,Tuesday, - 1 - 1 -  -  - 1 - 2 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B2,Thursday, - 1 - 1 -  -  - 1 - 2 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B2,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B2,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B2,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B2,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B2,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B2,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B2,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B2,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B2,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B2,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B2,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B3,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B3,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B3,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B3,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B3,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B3,Tuesday, - 9 -  -  - 1 - 0 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B3,Monday, - 1 - 1 -  -  - 1 - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B3,Thursday, - 1 - 1 -  -  - 1 - 2 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B3,Friday, - 1 - 1 -  -  - 1 - 2 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B3,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B3,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B3,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B3,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B3,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B3,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B3,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B3,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B3,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B3,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B3,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B4,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B4,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B4,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B4,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B4,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B4,Wednesday, - 9 -  -  - 1 - 0 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B4,Thursday, - 9 -  -  - 1 - 0 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B4,Monday, - 1 - 1 -  -  - 1 - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B4,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B4,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B4,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B4,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B4,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B4,Monday, - 2 -  -  - 3 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B4,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B4,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B4,Tuesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B4,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B4,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B4,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B5,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B5,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B5,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B5,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B5,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B5,Monday, - 9 -  -  - 1 - 0 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B5,Thursday, - 9 -  -  - 1 - 0 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B5,Friday, - 9 -  -  - 1 - 0 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B5,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B5,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B5,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B5,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B5,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B5,Tuesday, - 2 -  -  - 3 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B5,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B5,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B5,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B5,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B5,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B5,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B6,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B6,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B6,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B6,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B6,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B6,Tuesday, - 9 -  -  - 1 - 0 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B6,Wednesday, - 9 -  -  - 1 - 0 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B6,Friday, - 9 -  -  - 1 - 0 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B6,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B6,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B6,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B6,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B6,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B6,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B6,Thursday, - 2 -  -  - 3 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B6,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B6,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B6,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B6,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B6,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1
+AY 2023-24 Semester-I,Group B7,Monday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B7,Tuesday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B7,Wednesday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B7,Thursday, - 8 -  -  - 9 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B7,Friday, - 8 -  -  - 9 - ,PHL1010,Electromagnetism and Optics [PHL1010],3.0,3-0-0,Durgamadhab Mishra,durgamadhab@iitj.ac.in,K
+AY 2023-24 Semester-I,Group B7,Tuesday, - 9 -  -  - 1 - 0 - ,PHP1010,Physics Lab,1.0,0-0-2,B M Krishna Mariserla,bmkrishna@iitj.ac.in,M1
+AY 2023-24 Semester-I,Group B7,Wednesday, - 9 -  -  - 1 - 0 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B7,Monday, - 1 - 1 -  -  - 1 - 2 - ,MEP1010,Engineering Visualization [MEP1010],1.0,0-0-2,Prodyut Ranjan Chakraborty,pchakraborty@iitj.ac.in,M3
+AY 2023-24 Semester-I,Group B7,Monday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B7,Tuesday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B7,Wednesday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B7,Thursday, - 1 -  -  - 2 - ,MEL1010,Engineering Mechanics [MEL1010],3.0,2-1-0,Amrita Puri,amritapuri@iitj.ac.in,F
+AY 2023-24 Semester-I,Group B7,Friday, - 1 -  -  - 2 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B7,Wednesday, - 2 -  -  - 3 - ,OAE1010,Engineering Design – I,1.0,0-0-2,Sandip Murarka,sandipmurarka@iitj.ac.in,M8
+AY 2023-24 Semester-I,Group B7,Friday, - 2 -  -  - 3 - ,HSN1010,Communication Skill – I [HSN1010],1.0,0-0-2,Anupama Mohan,amohan@iitj.ac.in,M4
+AY 2023-24 Semester-I,Group B7,Monday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B7,Wednesday, - 4 -  -  - 5 - ,MAL1010,Mathematics I [MAL1010],4.0,3-1-0,Kirankumar Hiremath,k.r.hiremath@iitj.ac.in,N
+AY 2023-24 Semester-I,Group B7,Monday, - 5 -  -  - 6 - ,OSN1020,OSN1020,,,,,
+AY 2023-24 Semester-I,Group B7,Tuesday, - 5 -  -  - 6 - ,CYL1010,Chemistry [CYL1010],3.0,3-0-0,Rakesh Kumar Sharma,rvankayala@iitj.ac.in,G
+AY 2023-24 Semester-I,Group B7,Thursday, - 5 -  -  - 6 - ,OSN1010,Social Connect and Responsibilities – I [OSN1010],0.5,0-0-1,Ananya Debnath,Ananya Debnath,NG-1

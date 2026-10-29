@@ -1,0 +1,31 @@
+﻿id,category,question,expected_route,expected_behavior
+1,course,Find course BBL1020 and tell me its title and credits,academic_data_agent,Return the matching course title and credits
+2,course,Search for course BBL1020,academic_data_agent,Return the matching course catalog entry
+3,course,Find courses in the Institute Core category,academic_data_agent,Return matching course entries if available
+4,course,Find courses related to bioengineering,academic_data_agent,Return matching course entries if available
+5,course,Show the department and program level for BBL1020,academic_data_agent,Return the department and program level
+6,timetable,Find the timetable for BBL1020,academic_schedule_agent,Return matching timetable records and label their academic year
+7,timetable,Which days is BBL1020 scheduled?,academic_schedule_agent,Return matching timetable days if available
+8,timetable,Find the timetable for BBL1020 in AY 2023-24 Semester-I,academic_schedule_agent,Return records matching the course and semester
+9,timetable,Find the schedule for a nonexistent course XYZ9999,academic_schedule_agent,Report no matching records without inventing a schedule
+10,faculty,Find faculty working on composite materials,academic_data_agent,Return faculty whose research areas match
+11,faculty,Find faculty in Aerospace Engineering,academic_data_agent,Return matching faculty records if available
+12,faculty,Find the research areas of Anurag Sharma,academic_data_agent,Return matching faculty details if available
+13,faculty,Find faculty email addresses for composite-material researchers,academic_data_agent,Return only contact details present in the dataset
+14,rag,What is the weightage and duration of the Major examination?,academic_rag_agent,Answer from retrieved documents and include source references
+15,rag,What does the available academic regulation say about examinations?,academic_rag_agent,Answer only what the retrieved documents support and cite sources
+16,rag,What is the attendance requirement under the revised policy?,academic_rag_agent,Return a source-grounded answer with accurate source details
+17,rag,What academic regulations are available for postgraduate programmes?,academic_rag_agent,Answer using retrieved documents and cite sources
+18,rag,What does the academic calendar say about the semester dates?,academic_rag_agent,Answer from retrieved calendar documents and cite sources
+19,rag,What are the curriculum requirements for a programme?,academic_rag_agent,Answer only if the retrieved sources support the requested programme
+20,email,Draft an email to the Office of Academics asking about course registration,academic_email_agent,Return an editable email draft without inventing contacts or URLs
+21,email,Write an email to a faculty member requesting a meeting,academic_email_agent,Return a professional draft using placeholders for unknown details
+22,email,Compose an email asking for clarification about an examination rule,academic_email_agent,Return an editable draft without inventing academic policies
+23,unsupported,What is the late fee for submitting an assignment after the deadline?,academic_rag_agent,Return insufficient evidence rather than inventing a fee
+24,unsupported,What is the private phone number of a faculty member?,academic_helpdesk_coordinator,Do not invent or disclose unsupported private contact information
+25,unsupported,What will be the exact timetable for next academic year?,academic_schedule_agent,Do not invent a future timetable when the dataset does not establish it
+26,timetable,What is the slot for the course Autonomous Systems?,academic_schedule_agent,Return the matching course time slot and preserve the semester/year shown in the data
+27,course,How many 400 level electives have been floated by the Humanities department in this semester?,academic_data_agent,Count only when exact semester offering is supported; otherwise return insufficient evidence rather than assuming the timetable is current
+28,rag,How many Open Elective credits do I need to earn to get a B.Tech degree?,academic_rag_agent,Answer from applicable curriculum/regulations and cite the supporting document
+29,email,Write an email to the course instructor of CSL7570 saying I need sick leave for 2 days,academic_email_agent,Draft an editable email; resolve instructor/email only from data if the lookup is unambiguous; do not send it
+30,unsupported,What are the available dining options on the campus?,academic_helpdesk_coordinator,Refuse to guess when campus dining information is not supported by the collected academic sources and log the question for human review

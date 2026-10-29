@@ -1,0 +1,46 @@
+# Python
+.venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local data and vector stores (keep source CSV/PDFs outside code releases)
+data/processed/
+vectorstore/
+logs/
+
+# ADK local session data
+src/agents/.adk/
+
+# Generated evaluation outputs; retain explicitly selected final reports
+evaluation/results/*.csv
+!evaluation/results/.gitkeep
+
+
+# Python environments and caches
+.venv/
+venv/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+
+# Local secrets and environment configuration
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+
+# Local logs and temporary files
+*.log
+*.tmp
+
+# Generated model files
+*.gguf
+ollama-runtime/
+models/
+
+# OS/editor files
+.DS_Store
+Thumbs.db
+.vscode/
