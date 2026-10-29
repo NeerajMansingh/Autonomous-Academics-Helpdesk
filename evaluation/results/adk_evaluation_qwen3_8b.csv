@@ -1,0 +1,304 @@
+timestamp_utc,model,run_number,id,category,question,expected_agent,observed_authors,expected_handler_seen,response_nonempty,workflow_passed,citation_present,citation_refs,refusal_detected,answer_fingerprint,response,expected_behavior,human_accuracy_review,error,answer_changed_across_runs
+2026-10-29T20:31:42+00:00,qwen3:8b,1,1,course,Find course BBL1020 and tell me its title and credits,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"the course **bbl1020** has the title **""introduction to bioengineering theory [bbl1020]""** and is credited with **3.0** credits. source: `course_catalog.csv`","The course **BBL1020** has the title **""Introduction to Bioengineering Theory [BBL1020]""** and is credited with **3.0** credits.  
+Source: `course_catalog.csv`",Return the matching course title and credits,required,,False
+2026-10-29T20:31:47+00:00,qwen3:8b,1,2,course,Search for course BBL1020,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"the course **bbl1020** is listed in the course catalog as: - **title**: introduction to bioengineering theory [bbl1020] - **department**: institute foundation / multi-department - **program level**: ug first year core - **credits**: 3.0 - **category**: institute core (ic) - **focus area syllabus**: core 1st year course. slot: f, instructor: raviraj vankayala source: `course_catalog.csv`","The course **BBL1020** is listed in the course catalog as:  
+- **Title**: Introduction to Bioengineering Theory [BBL1020]  
+- **Department**: Institute Foundation / Multi-department  
+- **Program Level**: UG First Year Core  
+- **Credits**: 3.0  
+- **Category**: Institute Core (IC)  
+- **Focus Area Syllabus**: Core 1st Year course. Slot: F, Instructor: Raviraj Vankayala
+
+Source: `course_catalog.csv`",Return the matching course catalog entry,required,,False
+2026-10-29T20:31:56+00:00,qwen3:8b,1,3,course,Find courses in the Institute Core category,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"there are **15 courses** in the **institute core** category, as listed in the course catalog: 1. **bbl1020** - introduction to bioengineering theory 2. **bbp1010** - introduction to bioengineering lab 3. **eel1010** - introduction to electrical engineering 4. **csl1010** - introduction to computer science 5. **mal1010** - mathematics i 6. **mep1010** - engineering visualization 7. **hsn1010** - communication skill – i 8. **osn1010** - social connect and responsibilities – i 9. **osn1020/30** - performing arts i / sport i 10. **oae1010** - engineering design – i 11. **cyl1010** - chemistry 12. **mel1010** - engineering mechanics 13. **phl1010** - electromagnetism and optics 14. **php1010** - physics lab 15. **cyp1010** - chemistry lab **note:** this is a catalogue count and does not confirm availability for the current semester. for real-time enrollment or timetable details, check the official course_timetable.csv data. source: `course_catalog.csv`","There are **15 courses** in the **Institute Core** category, as listed in the course catalog:
+
+1. **BBL1020** - Introduction to Bioengineering Theory  
+2. **BBP1010** - Introduction to Bioengineering Lab  
+3. **EEL1010** - Introduction to Electrical Engineering  
+4. **CSL1010** - Introduction to Computer Science  
+5. **MAL1010** - Mathematics I  
+6. **MEP1010** - Engineering Visualization  
+7. **HSN1010** - Communication Skill – I  
+8. **OSN1010** - Social Connect and Responsibilities – I  
+9. **OSN1020/30** - Performing Arts I / Sport I  
+10. **OAE1010** - Engineering Design – I  
+11. **CYL1010** - Chemistry  
+12. **MEL1010** - Engineering Mechanics  
+13. **PHL1010** - Electromagnetism and Optics  
+14. **PHP1010** - Physics Lab  
+15. **CYP1010** - Chemistry Lab
+
+**Note:** This is a catalogue count and does not confirm availability for the current semester. For real-time enrollment or timetable details, check the official course_timetable.csv data.  
+Source: `course_catalog.csv`",Return matching course entries if available,required,,False
+2026-10-29T20:32:02+00:00,qwen3:8b,1,4,course,Find courses related to bioengineering,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"here are the courses related to bioengineering from the course catalog: 1. **bbl1020** - introduction to bioengineering theory (ug first year core, 3 credits) - department: institute foundation / multi-department - instructor: raviraj vankayala 2. **bbp1010** - introduction to bioengineering lab (ug first year core, 1 credit) - department: institute foundation / multi-department - instructor: dinesh ahirwar 3. **bioscience and bioengineering department courses** (note: titles are extracted from curriculum documents): - engineering drawing - engineering design i - communication skill - social connect and responsibilities - performing arts/sports - probability, statistics, and stochastic processes - data structures and algorithms - biochemistry *note*: courses with empty course codes are likely placeholders or part of archived curriculum documents. for precise details, refer to the official course catalog (`course_catalog.csv`).","Here are the courses related to bioengineering from the course catalog:
+
+1. **BBL1020** - Introduction to Bioengineering Theory (UG First Year Core, 3 credits)  
+   - Department: Institute Foundation / Multi-department  
+   - Instructor: Raviraj Vankayala
+
+2. **BBP1010** - Introduction to Bioengineering Lab (UG First Year Core, 1 credit)  
+   - Department: Institute Foundation / Multi-department  
+   - Instructor: Dinesh Ahirwar
+
+3. **Bioscience and Bioengineering Department Courses** (Note: Titles are extracted from curriculum documents):  
+   - Engineering Drawing  
+   - Engineering Design I  
+   - Communication Skill  
+   - Social Connect and Responsibilities  
+   - Performing Arts/Sports  
+   - Probability, Statistics, and Stochastic Processes  
+   - Data Structures and Algorithms  
+   - Biochemistry
+
+*Note*: Courses with empty course codes are likely placeholders or part of archived curriculum documents. For precise details, refer to the official course catalog (`course_catalog.csv`).",Return matching course entries if available,required,,False
+2026-10-29T20:32:08+00:00,qwen3:8b,1,5,course,Show the department and program level for BBL1020,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,the course **bbl1020** belongs to the **department: institute foundation / multi-department** and is classified under the **program level: ug first year core**. this information is sourced from the course catalog (`course_catalog.csv`).,The course **BBL1020** belongs to the **Department: Institute Foundation / Multi-department** and is classified under the **Program Level: UG First Year Core**. This information is sourced from the course catalog (`course_catalog.csv`).,Return the department and program level,required,,False
+2026-10-29T20:32:15+00:00,qwen3:8b,1,6,timetable,Find the timetable for BBL1020,academic_schedule_agent,academic_helpdesk_coordinator | academic_schedule_agent,True,True,True,,,,"the timetable for **bbl1020 - introduction to bioengineering theory** is available for **ay 2023-24 semester-i** from the `course_timetable.csv` source. here are the details: ### **course information** - **credits**: 3.0 - **ltp**: 3-0-0 - **instructor**: raviraj vankayala - **instructor email**: [rvankayala@iitj.ac.in](mailto:rvankayala@iitj.ac.in) ### **schedule** all groups have classes on **monday, tuesday, and thursday** at the same time slot (formatted as `""- 1 - - - 2 -""`). **group-specific timings**: - **group a1**: monday, tuesday, thursday - **group a2**: monday, tuesday, thursday - **group a3**: monday, tuesday, thursday - **group a4 (sr. 121–160)**: monday, tuesday, thursday - **group a5 (sr. 161–200)**: monday, tuesday, thursday - **group a6 (sr. 201–240)**: monday, tuesday, thursday ### **notes** - the time slot format appears to be a placeholder (e.g., `""- 1 - - - 2 -""`). verify with the instructor for exact timings. - this is a historical timetable (ay 2023-24 semester-i). do not assume it applies to future semesters. source: `course_timetable.csv` warning: preserve the exact semester (`ay 2023-24 semester-i`) as returned.","The timetable for **BBL1020 - Introduction to Bioengineering Theory** is available for **AY 2023-24 Semester-I** from the `course_timetable.csv` source. Here are the details:
+
+### **Course Information**
+- **Credits**: 3.0
+- **LTP**: 3-0-0
+- **Instructor**: Raviraj Vankayala  
+- **Instructor Email**: [rvankayala@iitj.ac.in](mailto:rvankayala@iitj.ac.in)
+
+### **Schedule**
+All groups have classes on **Monday, Tuesday, and Thursday** at the same time slot (formatted as `""- 1 -  -  - 2 -""`).  
+**Group-Specific Timings**:
+- **Group A1**: Monday, Tuesday, Thursday  
+- **Group A2**: Monday, Tuesday, Thursday  
+- **Group A3**: Monday, Tuesday, Thursday  
+- **Group A4 (Sr. 121–160)**: Monday, Tuesday, Thursday  
+- **Group A5 (Sr. 161–200)**: Monday, Tuesday, Thursday  
+- **Group A6 (Sr. 201–240)**: Monday, Tuesday, Thursday
+
+### **Notes**
+- The time slot format appears to be a placeholder (e.g., `""- 1 -  -  - 2 -""`). Verify with the instructor for exact timings.  
+- This is a historical timetable (AY 2023-24 Semester-I). Do not assume it applies to future semesters.
+
+Source: `course_timetable.csv`  
+Warning: Preserve the exact semester (`AY 2023-24 Semester-I`) as returned.",Return matching timetable records and label their academic year,required,,False
+2026-10-29T20:32:20+00:00,qwen3:8b,1,7,timetable,Which days is BBL1020 scheduled?,academic_schedule_agent,academic_helpdesk_coordinator | academic_schedule_agent,True,True,True,,,,"bbl1020 is scheduled on **monday**, **tuesday**, and **thursday** in **ay 2023-24 semester-i** (source: `course_timetable.csv`). this applies to all group sections (a1, a2, a3, a4, a5, a6) with the same time slot and instructor.","BBL1020 is scheduled on **Monday**, **Tuesday**, and **Thursday** in **AY 2023-24 Semester-I** (source: `course_timetable.csv`).
+
+This applies to all group sections (A1, A2, A3, A4, A5, A6) with the same time slot and instructor.",Return matching timetable days if available,required,,False
+2026-10-29T20:32:26+00:00,qwen3:8b,1,8,timetable,Find the timetable for BBL1020 in AY 2023-24 Semester-I,academic_schedule_agent,academic_helpdesk_coordinator | academic_schedule_agent,True,True,True,,,,"the timetable for **bbl1020** (introduction to bioengineering theory) in **ay 2023-24 semester-i** is as follows: ### **schedule details** - **days**: monday, tuesday, thursday - **time slot**: ""- 1 - - - 2 -"" (likely a formatting artifact; confirm with the instructor for exact timing) - **instructor**: raviraj vankayala - **instructor email**: [rvankayala@iitj.ac.in](mailto:rvankayala@iitj.ac.in) - **group sections**: - **group a1**, **a2**, **a3 /td>**, **a4 (sr. 121–160)**, **a5 (sr. 161–200)**, **a6 (sr. 201–240)** each group has three classes on the specified days. **source**: `course_timetable.csv` **note**: preserve the exact semester term ""ay 2023-24 semester-i"" as this is a historical timetable.","The timetable for **BBL1020** (Introduction to Bioengineering Theory) in **AY 2023-24 Semester-I** is as follows:
+
+### **Schedule Details**
+- **Days**: Monday, Tuesday, Thursday  
+- **Time Slot**: ""- 1 -  -  - 2 -"" (likely a formatting artifact; confirm with the instructor for exact timing)  
+- **Instructor**: Raviraj Vankayala  
+- **Instructor Email**: [rvankayala@iitj.ac.in](mailto:rvankayala@iitj.ac.in)  
+- **Group Sections**:  
+  - **Group A1**, **A2**, **A3 /td>**, **A4 (Sr. 121–160)**, **A5 (Sr. 161–200)**, **A6 (Sr. 201–240)**
+
+Each group has three classes on the specified days.
+
+**Source**: `course_timetable.csv`  
+**Note**: Preserve the exact semester term ""AY 2023-24 Semester-I"" as this is a historical timetable.",Return records matching the course and semester,required,,False
+2026-10-29T20:32:29+00:00,qwen3:8b,1,9,timetable,Find the schedule for a nonexistent course XYZ9999,academic_schedule_agent,academic_helpdesk_coordinator | academic_schedule_agent,True,True,True,,,,"the course code ""xyz9999"" does not appear in the recorded course_timetable.csv data. no matching timetable record was found for this course. please verify the course code and try again. source: course_timetable.csv term: [not applicable, as no valid timetable entry exists for this course]","The course code ""XYZ9999"" does not appear in the recorded course_timetable.csv data. No matching timetable record was found for this course. Please verify the course code and try again.
+
+Source: course_timetable.csv  
+Term: [Not applicable, as no valid timetable entry exists for this course]",Report no matching records without inventing a schedule,required,,False
+2026-10-29T20:32:35+00:00,qwen3:8b,1,10,faculty,Find faculty working on composite materials,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"here are the faculty members working on composite materials, based on research areas listed in `faculty_contacts.csv`: 1. **anurag sharma** - **designation**: assistant professor - **department**: aerospace engineering - **email**: anuragsharma@iitj.ac.in - **research areas**: advanced composite materials, thermoplastic composites, fatigue and impact behavior of composites, multifunctional composite design, composite manufacturing & processing, structural testing, damage mechanics & failure analysis. 2. **babu ranjan thakur** - **designation**: assistant professor - **department**: aerospace engineering - **email**: brthakur@iitj.ac.in - **research areas**: computational mechanics, composite materials, nonlinear dynamics, flat and folded composite structures, fem. 3. **amit kumar rathi** - **designation**: assistant professor - **department**: civil and infrastructure engineering - **email**: akrathi@iitj.ac.in - **research areas**: ... (includes composite materials). 4. **atul kumar sharma** - **designation**: assistant professor - **department**: mechanical engineering - **email**: atulksharma@iitj.ac.in - **research areas**: ... (includes wave propagation in soft active composite materials). use only the published email addresses provided. do not infer additional details beyond the data sources.","Here are the faculty members working on composite materials, based on research areas listed in `faculty_contacts.csv`:
+
+1. **Anurag Sharma**  
+   - **Designation**: Assistant Professor  
+   - **Department**: Aerospace Engineering  
+   - **Email**: anuragsharma@iitj.ac.in  
+   - **Research Areas**: Advanced Composite Materials, Thermoplastic composites, Fatigue and Impact behavior of Composites, Multifunctional Composite Design, Composite Manufacturing & Processing, Structural testing, Damage mechanics & Failure analysis.
+
+2. **Babu Ranjan Thakur**  
+   - **Designation**: Assistant Professor  
+   - **Department**: Aerospace Engineering  
+   - **Email**: brthakur@iitj.ac.in  
+   - **Research Areas**: Computational Mechanics, Composite Materials, Nonlinear Dynamics, Flat and Folded Composite Structures, FEM.
+
+3. **Amit Kumar Rathi**  
+   - **Designation**: Assistant Professor  
+   - **Department**: Civil and Infrastructure Engineering  
+   - **Email**: akrathi@iitj.ac.in  
+   - **Research Areas**: ... (includes Composite Materials).
+
+4. **Atul Kumar Sharma**  
+   - **Designation**: Assistant Professor  
+   - **Department**: Mechanical Engineering  
+   - **Email**: atulksharma@iitj.ac.in  
+   - **Research Areas**: ... (includes Wave Propagation in Soft Active Composite Materials).
+
+Use only the published email addresses provided. Do not infer additional details beyond the data sources.",Return faculty whose research areas match,required,,False
+2026-10-29T20:32:46+00:00,qwen3:8b,1,11,faculty,Find faculty in Aerospace Engineering,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"here are the faculty members in the aerospace engineering department, based on the faculty directory: 1. **anurag sharma** - designation: assistant professor - email: anuragsharma@iitj.ac.in - research areas: advanced composite materials, thermoplastic composites, fatigue and impact behavior of composites, multifunctional composite design, composite manufacturing & processing, structural testing, damage mechanics & failure analysis - profile: [link](https://www.iitj.ac.in/people/profile/96352ca2-eeb3-47a3-bba4-9b58e07aaf2d) 2. **arun kumar r** - designation: associate professor - email: arunkr@iitj.ac.in - research areas: experimental aerodynamics - confined jets, shock wave reflection and transitions, ejector flows - profile: [link](https://www.iitj.ac.in/people/profile/6db18428-8744-4a5a-a833-6327d9fe8b1f) 3. **babu ranjan thakur** - designation: assistant professor - email: brthakur@iitj.ac.in - research areas: computational mechanics, composite materials, nonlinear dynamics, flat and folded composite structures, fem 4. **gagan kewalramani** - designation: assistant professor - email: gagank@iitj.ac.in - research areas: turbulent flows, fluid mechanics, heat transfer - profile: [link](https://www.iitj.ac.in/people/profile/60368e43-099d-460b-9825-e2109d475a5d) 5. **harshal akolekar** - designation: assistant professor - email: harshal.akolekar@iitj.ac.in - research areas: aerodynamics; computational fluid dynamics; machine learning; submarine hydrodynamics; turbomachinery - profile: [link](https://www.iitj.ac.in/people/profile/2a1d5bcc-231c-42e2-9420-140260977b74) 6. **himanshu dave** - designation: assistant professor - email: himanshudave@iitj.ac.in - research areas: clean combustion for power and propulsion | les and dns of turbulent combustion | scientific machine learning - profile: [link](https://www.iitj.ac.in/people/profile/9eaa5e9a-d5fa-446c-ae2e-9f733346e19c) 7. **jayant kumar mohanta** - designation: assistant professor - email: jayant@iitj.ac.in - research areas: planar parallel manipulators; lower limb rehabilitation robots; medical robotics; robot manipulator kinematic and dynamic control, mechanism design and analysis - profile: [link](https://www.iitj.ac.in/people/profile/b5d0ced7-bfcf-4e23-90c6-825932f6994f) 8. **nidhi sharma** - designation: assistant professor - email: snidhi@iitj.ac.in - research areas: high accuracy numerical methods, transition to turbulent flows, linear and non-linear instability analysis, carbon capture technology, cfd: dns and les, avionics - profile: [link](https://www.iitj.ac.in/people/profile/7d42451c-9697-4147-9deb-c727efd45f87) 9. **prabhjeet singh** - designation: assistant professor - email: prabhjeet@iitj.ac.in - research areas: flight dynamics and control, aircraft attitude control, autonomous aerial systems, unmanned aerial vehicles (uavs), flight control systems and autopilot development, aircraft modelling and simulation, flight testing, nonlinear and adaptive control, neural networks, sliding mode, backstepping, lyapunov stability - profile: [link](https://www.iitj.ac.in/people/profile/8a4f4da2-7b9c-44e0-8a6d-66c05c140bfa) 10. **soumya ranjan nanda** - designation: assistant professor - email: srnanda@iitj.ac.in - research areas: high-speed experimental aerodynamics, unsteady compressible flows, hypersonic test-facility development, supersonic free jets and jet impingement, aerodynamic force and heat transfer measurements, flow diagnostics, shock motion in liquids, shock-liquid interface interaction - profile: [link](https://www.iitj.ac.in/people/profile/8f2e85ee-d9c5-40a5-8be4-608c02f6f302) data sourced from `faculty_contacts.csv`.","Here are the faculty members in the Aerospace Engineering department, based on the faculty directory:
+
+1. **Anurag Sharma**  
+   - Designation: Assistant Professor  
+   - Email: anuragsharma@iitj.ac.in  
+   - Research Areas: Advanced Composite Materials, Thermoplastic composites, Fatigue and Impact behavior of Composites, Multifunctional Composite Design, Composite Manufacturing & Processing, Structural testing, Damage mechanics & Failure analysis  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/96352ca2-eeb3-47a3-bba4-9b58e07aaf2d)
+
+2. **Arun Kumar R**  
+   - Designation: Associate Professor  
+   - Email: arunkr@iitj.ac.in  
+   - Research Areas: Experimental Aerodynamics - Confined Jets, Shock Wave Reflection and Transitions, Ejector Flows  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/6db18428-8744-4a5a-a833-6327d9fe8b1f)
+
+3. **Babu Ranjan Thakur**  
+   - Designation: Assistant Professor  
+   - Email: brthakur@iitj.ac.in  
+   - Research Areas: Computational Mechanics, Composite Materials, Nonlinear Dynamics, Flat and Folded Composite Structures, FEM
+
+4. **Gagan Kewalramani**  
+   - Designation: Assistant Professor  
+   - Email: gagank@iitj.ac.in  
+   - Research Areas: Turbulent flows, Fluid Mechanics, Heat transfer  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/60368e43-099d-460b-9825-e2109d475a5d)
+
+5. **Harshal Akolekar**  
+   - Designation: Assistant Professor  
+   - Email: harshal.akolekar@iitj.ac.in  
+   - Research Areas: Aerodynamics; Computational Fluid Dynamics; Machine Learning; Submarine Hydrodynamics; Turbomachinery  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/2a1d5bcc-231c-42e2-9420-140260977b74)
+
+6. **Himanshu Dave**  
+   - Designation: Assistant Professor  
+   - Email: himanshudave@iitj.ac.in  
+   - Research Areas: Clean combustion for power and propulsion | LES and DNS of turbulent combustion | Scientific machine learning  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/9eaa5e9a-d5fa-446c-ae2e-9f733346e19c)
+
+7. **Jayant Kumar Mohanta**  
+   - Designation: Assistant Professor  
+   - Email: jayant@iitj.ac.in  
+   - Research Areas: Planar Parallel manipulators; Lower limb rehabilitation robots; Medical robotics; Robot manipulator kinematic and dynamic control, Mechanism design and Analysis  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/b5d0ced7-bfcf-4e23-90c6-825932f6994f)
+
+8. **Nidhi Sharma**  
+   - Designation: Assistant Professor  
+   - Email: snidhi@iitj.ac.in  
+   - Research Areas: High Accuracy Numerical Methods, Transition to turbulent flows, linear and non-linear instability analysis, carbon capture technology, CFD: DNS and LES, Avionics  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/7d42451c-9697-4147-9deb-c727efd45f87)
+
+9. **Prabhjeet Singh**  
+   - Designation: Assistant Professor  
+   - Email: prabhjeet@iitj.ac.in  
+   - Research Areas: Flight dynamics and control, aircraft attitude control, autonomous aerial systems, unmanned aerial vehicles (UAVs), flight control systems and autopilot development, aircraft modelling and simulation, flight testing, nonlinear and adaptive control, neural networks, sliding mode, backstepping, Lyapunov stability  
+   - Profile: [Link](https://www.iitj.ac.in/People/Profile/8a4f4da2-7b9c-44e0-8a6d-66c05c140bfa)
+
+10. **Soumya Ranjan Nanda**  
+    - Designation: Assistant Professor  
+    - Email: srnanda@iitj.ac.in  
+    - Research Areas: High-Speed Experimental Aerodynamics, Unsteady Compressible Flows, Hypersonic Test-Facility Development, Supersonic Free Jets and Jet Impingement, Aerodynamic Force and Heat Transfer Measurements, Flow Diagnostics, Shock Motion in Liquids, Shock-Liquid interface Interaction  
+    - Profile: [Link](https://www.iitj.ac.in/People/Profile/8f2e85ee-d9c5-40a5-8be4-608c02f6f302)
+
+Data sourced from `faculty_contacts.csv`.",Return matching faculty records if available,required,,False
+2026-10-29T20:32:52+00:00,qwen3:8b,1,12,faculty,Find the research areas of Anurag Sharma,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,anurag sharma's research areas are: **advanced composite materials; thermoplastic composites; fatigue and impact behavior of composites; multifunctional composite design; composite manufacturing & processing; structural testing; damage mechanics & failure analysis.** source: `faculty_contacts.csv`,"Anurag Sharma's research areas are:  
+**Advanced Composite Materials; Thermoplastic composites; Fatigue and Impact behavior of Composites; Multifunctional Composite Design; Composite Manufacturing & Processing; Structural testing; Damage mechanics & Failure analysis.**
+
+Source: `faculty_contacts.csv`",Return matching faculty details if available,required,,False
+2026-10-29T20:33:01+00:00,qwen3:8b,1,13,faculty,Find faculty email addresses for composite-material researchers,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"here are faculty members researching composite materials along with their email addresses, sourced from `faculty_contacts.csv`: 1. **anurag sharma** email: `anuragsharma@iitj.ac.in` research areas: advanced composite materials, thermoplastic composites, etc. 2. **babu ranjan thakur** email: `brthakur@iitj.ac.in` research areas: composite materials, nonlinear dynamics, etc. 3. **amit kumar rathi** email: `akrathi@iitj.ac.in` research areas: composite materials, vibration control, etc. 4. **atul kumar sharma** email: `atulksharma@iitj.ac.in` research areas: soft active composite materials, topology optimization, etc. these emails are directly tied to composite materials research as per their published profiles.","Here are faculty members researching composite materials along with their email addresses, sourced from `faculty_contacts.csv`:
+
+1. **Anurag Sharma**  
+   Email: `anuragsharma@iitj.ac.in`  
+   Research Areas: Advanced Composite Materials, Thermoplastic composites, etc.
+
+2. **Babu Ranjan Thakur**  
+   Email: `brthakur@iitj.ac.in`  
+   Research Areas: Composite Materials, Nonlinear Dynamics, etc.
+
+3. **Amit Kumar Rathi**  
+   Email: `akrathi@iitj.ac.in`  
+   Research Areas: Composite Materials, Vibration Control, etc.
+
+4. **Atul Kumar Sharma**  
+   Email: `atulksharma@iitj.ac.in`  
+   Research Areas: Soft Active Composite Materials, Topology Optimization, etc.
+
+These emails are directly tied to composite materials research as per their published profiles.",Return only contact details present in the dataset,required,,False
+2026-10-29T20:33:36+00:00,qwen3:8b,1,14,rag,What is the weightage and duration of the Major examination?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics.,I could not determine this reliably from the available sources. Please check with the Office of Academics.,Answer from retrieved documents and include source references,required,,False
+2026-10-29T20:33:55+00:00,qwen3:8b,1,15,rag,What does the available academic regulation say about examinations?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics. [source n: search_academic_documents returned missing citation evidence],I could not determine this reliably from the available sources. Please check with the Office of Academics. [Source N: search_academic_documents returned missing citation evidence],Answer only what the retrieved documents support and cite sources,required,,False
+2026-10-29T20:34:13+00:00,qwen3:8b,1,16,rag,What is the attendance requirement under the revised policy?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics. [source n: missing],I could not determine this reliably from the available sources. Please check with the Office of Academics. [Source N: Missing],Return a source-grounded answer with accurate source details,required,,False
+2026-10-29T20:34:16+00:00,qwen3:8b,1,17,rag,What academic regulations are available for postgraduate programmes?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics.,I could not determine this reliably from the available sources. Please check with the Office of Academics.,Answer using retrieved documents and cite sources,required,,False
+2026-10-29T20:34:34+00:00,qwen3:8b,1,18,rag,What does the academic calendar say about the semester dates?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics for the most current academic calendar details. [source n: missing],I could not determine this reliably from the available sources. Please check with the Office of Academics for the most current academic calendar details. [Source N: Missing],Answer from retrieved calendar documents and cite sources,required,,False
+2026-10-29T20:34:54+00:00,qwen3:8b,1,19,rag,What are the curriculum requirements for a programme?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics.,I could not determine this reliably from the available sources. Please check with the Office of Academics.,Answer only if the retrieved sources support the requested programme,required,,False
+2026-10-29T20:34:58+00:00,qwen3:8b,1,20,email,Draft an email to the Office of Academics asking about course registration,academic_email_agent,academic_helpdesk_coordinator | academic_email_agent,True,True,True,,,,"subject: inquiry regarding course registration process dear office of academics, i hope this email finds you well. i am writing to seek clarification regarding the course registration process for the upcoming semester. could you kindly provide details about the registration dates, required documents, and any specific guidelines students need to follow? additionally, i would appreciate it if you could share information about course availability, prerequisites, and any updates to the registration system. please let me know if further details or documentation are required from my side. thank you for your time and assistance. i look forward to your response. best regards, [your name] [roll number] [course code] note: this draft is intended for the office of academics and does not require instructor-specific contact details. adjust placeholders as needed.","Subject: Inquiry Regarding Course Registration Process
+
+Dear Office of Academics,
+
+I hope this email finds you well. I am writing to seek clarification regarding the course registration process for the upcoming semester. Could you kindly provide details about the registration dates, required documents, and any specific guidelines students need to follow?
+
+Additionally, I would appreciate it if you could share information about course availability, prerequisites, and any updates to the registration system. Please let me know if further details or documentation are required from my side.
+
+Thank you for your time and assistance. I look forward to your response.
+
+Best regards,  
+[Your Name]  
+[Roll Number]  
+[Course Code]
+
+Note: This draft is intended for the Office of Academics and does not require instructor-specific contact details. Adjust placeholders as needed.",Return an editable email draft without inventing contacts or URLs,required,,False
+2026-10-29T20:35:03+00:00,qwen3:8b,1,21,email,Write an email to a faculty member requesting a meeting,academic_email_agent,academic_helpdesk_coordinator | academic_email_agent,True,True,True,,,,"subject: request for meeting dear [recipient name], i hope this email finds you well. i am writing to request a meeting at your convenience to discuss [briefly mention the purpose, e.g., ""clarify course requirements,"" ""discuss project guidance,"" or ""address academic concerns""]. please let me know a suitable time and date that works for you, or suggest an alternative arrangement if needed. i am available [mention your availability, e.g., ""during office hours,"" ""on [specific dates],"" or ""at your earliest convenience""]. thank you for your time and support. i look forward to your response. best regards, [your name] [roll number] [course code] **note**: if you need to contact the instructor of a specific course (e.g., csl7570), provide the course code, and i can assist with the instructor’s contact details.","Subject: Request for Meeting
+
+Dear [Recipient Name],
+
+I hope this email finds you well. I am writing to request a meeting at your convenience to discuss [briefly mention the purpose, e.g., ""clarify course requirements,"" ""discuss project guidance,"" or ""address academic concerns""].
+
+Please let me know a suitable time and date that works for you, or suggest an alternative arrangement if needed. I am available [mention your availability, e.g., ""during office hours,"" ""on [specific dates],"" or ""at your earliest convenience""].
+
+Thank you for your time and support. I look forward to your response.
+
+Best regards,  
+[Your Name]  
+[Roll Number]  
+[Course Code]
+
+**Note**: If you need to contact the instructor of a specific course (e.g., CSL7570), provide the course code, and I can assist with the instructor’s contact details.",Return a professional draft using placeholders for unknown details,required,,False
+2026-10-29T20:35:10+00:00,qwen3:8b,1,22,email,Compose an email asking for clarification about an examination rule,academic_email_agent,academic_helpdesk_coordinator | academic_email_agent,True,True,True,,,,"**subject:** request for clarification on examination rule for csl7570 dear [course instructor of csl7570], i hope this email finds you well. my name is [your name], and i am a student enrolled in [course code] (roll number: [roll number]). i am writing to kindly request clarification regarding [specific examination rule/query, e.g., ""the policy on late submissions,"" ""procedures for re-evaluation,"" or ""eligibility for a makeup exam""]. could you please provide further details or guidance on this matter? i would appreciate your response at your earliest convenience. should you require any additional information from my side, please do not hesitate to ask. thank you for your time and support. best regards, [your name] [roll number] [course code] **note:** the instructor contact for csl7570 was not found in the collected timetable data (course_timetable.csv). please ensure to replace [instructor email] with the correct contact details before sending.","**Subject:** Request for Clarification on Examination Rule for CSL7570
+
+Dear [Course Instructor of CSL7570],
+
+I hope this email finds you well. My name is [Your Name], and I am a student enrolled in [Course Code] (Roll Number: [Roll Number]). I am writing to kindly request clarification regarding [specific examination rule/query, e.g., ""the policy on late submissions,"" ""procedures for re-evaluation,"" or ""eligibility for a makeup exam""].
+
+Could you please provide further details or guidance on this matter? I would appreciate your response at your earliest convenience. Should you require any additional information from my side, please do not hesitate to ask.
+
+Thank you for your time and support.
+
+Best regards,  
+[Your Name]  
+[Roll Number]  
+[Course Code]
+
+**Note:** The instructor contact for CSL7570 was not found in the collected timetable data (course_timetable.csv). Please ensure to replace [Instructor Email] with the correct contact details before sending.",Return an editable draft without inventing academic policies,required,,False
+2026-10-29T20:35:13+00:00,qwen3:8b,1,23,unsupported,What is the late fee for submitting an assignment after the deadline?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,,0,True,i could not determine this reliably from the available sources. please check with the office of academics. [source 0],I could not determine this reliably from the available sources. Please check with the Office of Academics. [Source 0],Return insufficient evidence rather than inventing a fee,required,,False
+2026-10-29T20:35:13+00:00,qwen3:8b,1,24,unsupported,What is the private phone number of a faculty member?,academic_helpdesk_coordinator,academic_helpdesk_coordinator,True,True,True,,,True,i cannot disclose private faculty contact information. please use an officially published institutional contact channel.,I cannot disclose private faculty contact information. Please use an officially published institutional contact channel.,Do not invent or disclose unsupported private contact information,required,,False
+2026-10-29T20:35:19+00:00,qwen3:8b,1,25,unsupported,What will be the exact timetable for next academic year?,academic_schedule_agent,academic_helpdesk_coordinator | academic_schedule_agent,True,True,False,,,False,"the course_timetable.csv does not contain any records for the next academic year's timetable, as the data available only includes past semesters (e.g., ay 2023-24 semester-i). no future timetables are currently published or accessible through this system. please check official iit jodhpur announcements for updates. source: course_timetable.csv term: ay 2023-24 semester-i (latest available data)","The course_timetable.csv does not contain any records for the next academic year's timetable, as the data available only includes past semesters (e.g., AY 2023-24 Semester-I). No future timetables are currently published or accessible through this system. Please check official IIT Jodhpur announcements for updates.
+
+Source: course_timetable.csv  
+Term: AY 2023-24 Semester-I (latest available data)",Do not invent a future timetable when the dataset does not establish it,required,,False
+2026-10-29T20:35:23+00:00,qwen3:8b,1,26,timetable,What is the slot for the course Autonomous Systems?,academic_schedule_agent,academic_helpdesk_coordinator | academic_schedule_agent,True,True,True,,,,"the course ""autonomous systems"" was not found in the timetable data (course_timetable.csv) for ay 2023-24 semester-i. no schedule records match this course title. please verify the course name or provide the course code for further assistance. **source:** course_timetable.csv **term:** ay 2023-24 semester-i","The course ""Autonomous Systems"" was not found in the timetable data (course_timetable.csv) for AY 2023-24 Semester-I. No schedule records match this course title. Please verify the course name or provide the course code for further assistance.
+
+**Source:** course_timetable.csv  
+**Term:** AY 2023-24 Semester-I",Return the matching course time slot and preserve the semester/year shown in the data,required,,False
+2026-10-29T20:35:29+00:00,qwen3:8b,1,27,course,How many 400 level electives have been floated by the Humanities department in this semester?,academic_data_agent,academic_helpdesk_coordinator | academic_data_agent,True,True,True,,,,"the available course catalog data does not provide information about floated electives for ""this semester"" due to insufficient evidence. the timetable records only cover historical ay 2023-24 semester-i data, and no current semester floating details are available in the system. for general elective listings, you may check the `course_catalog.csv` file directly.","The available course catalog data does not provide information about floated electives for ""this semester"" due to insufficient evidence. The timetable records only cover historical AY 2023-24 Semester-I data, and no current semester floating details are available in the system.
+
+For general elective listings, you may check the `course_catalog.csv` file directly.",Count only when exact semester offering is supported; otherwise return insufficient evidence rather than assuming the timetable is current,required,,False
+2026-10-29T20:35:48+00:00,qwen3:8b,1,28,rag,How many Open Elective credits do I need to earn to get a B.Tech degree?,academic_rag_agent,academic_helpdesk_coordinator | academic_rag_agent,True,True,True,False,,,i could not determine this reliably from the available sources. please check with the office of academics for the most current b.tech degree requirements regarding open elective credits. [source n: insufficient evidence found in academic documents],I could not determine this reliably from the available sources. Please check with the Office of Academics for the most current B.Tech degree requirements regarding Open Elective credits. [Source N: Insufficient evidence found in academic documents],Answer from applicable curriculum/regulations and cite the supporting document,required,,False
+2026-10-29T20:35:53+00:00,qwen3:8b,1,29,email,Write an email to the course instructor of CSL7570 saying I need sick leave for 2 days,academic_email_agent,academic_helpdesk_coordinator | academic_email_agent,True,True,True,,,,"here is a draft email for your review: --- **subject:** request for sick leave (csl7570) dear [course instructor of csl7570], i hope this email finds you well. i am writing to formally request sick leave for [your name], reg. no. [roll number], for 2 days due to [briefly mention reason, e.g., ""medical reasons"" or ""illness""]. kindly confirm the process to inform the course coordinator and whether any assignments or exams need to be rescheduled. i apologize for any inconvenience caused and appreciate your understanding. looking forward to your guidance. best regards, [your name] [roll number] [course code: csl7570] **note:** the instructor contact for csl7570 was not found in the collected timetable data (course_timetable.csv). please ensure to replace [instructor email] with the correct contact details before sending. --- let me know if you need adjustments!","Here is a draft email for your review:
+
+---
+
+**Subject:** Request for Sick Leave (CSL7570)
+
+Dear [Course Instructor of CSL7570],
+
+I hope this email finds you well. I am writing to formally request sick leave for [Your Name], Reg. No. [Roll Number], for 2 days due to [briefly mention reason, e.g., ""medical reasons"" or ""illness""].
+
+Kindly confirm the process to inform the course coordinator and whether any assignments or exams need to be rescheduled. I apologize for any inconvenience caused and appreciate your understanding.
+
+Looking forward to your guidance.
+
+Best regards,  
+[Your Name]  
+[Roll Number]  
+[Course Code: CSL7570]
+
+**Note:** The instructor contact for CSL7570 was not found in the collected timetable data (course_timetable.csv). Please ensure to replace [Instructor Email] with the correct contact details before sending.
+
+---
+
+Let me know if you need adjustments!",Draft an editable email; resolve instructor/email only from data if the lookup is unambiguous; do not send it,required,,False
+2026-10-29T20:35:53+00:00,qwen3:8b,1,30,unsupported,What are the available dining options on the campus?,academic_helpdesk_coordinator,academic_helpdesk_coordinator,True,True,True,,,True,"i don't know the answer to that. this helpdesk handles iit jodhpur academic programmes and course content, academic rules and regulations, course schedules, faculty contact lookups, and email drafts to course instructors. i've logged this request for human review.","I don't know the answer to that. This helpdesk handles IIT Jodhpur academic programmes and course content, academic rules and regulations, course schedules, faculty contact lookups, and email drafts to course instructors. I've logged this request for human review.",Refuse to guess when campus dining information is not supported by the collected academic sources and log the question for human review,required,,False

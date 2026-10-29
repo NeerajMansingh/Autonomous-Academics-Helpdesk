@@ -13,7 +13,6 @@ logs/
 src/agents/.adk/
 
 # Generated evaluation outputs; retain explicitly selected final reports
-evaluation/results/*.csv
 !evaluation/results/.gitkeep
 
 
